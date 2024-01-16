@@ -3,6 +3,10 @@
 ## Description
     
 This project is used as a standalone javascript editor with syntax highlighting and be able to be used offline and installed as a Progresive Web App. All data will be saved on client.
+
+## Screenshot
+
+![Full Application View]()
     
 ## Table of Contents
     
