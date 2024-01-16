@@ -6,7 +6,7 @@ This project is used as a standalone javascript editor with syntax highlighting 
 
 ## Screenshot
 
-![Full Application View]()
+![Full Application View](images/TextEditorSS.PNG)
     
 ## Table of Contents
     
